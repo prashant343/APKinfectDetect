@@ -18,3 +18,8 @@ secound set of sample data
 
 
 Description of Neural network and Training methods
+
+
+People working on this project
+1. Prashant Kaushik
+2. Dr. Pankaj Yadav
